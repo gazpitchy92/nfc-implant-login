@@ -19,7 +19,7 @@ Usage: `./decode.py <string>`
 
 Decodes an encoded password string. Optional verification step.
 
-### nfc_app.py
+### nfc.sh
 Main application that should be launched on system login. Listens for NFC scans, decodes the stored string, and automatically types the password and presses enter.
 
 ## Setup
