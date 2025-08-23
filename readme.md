@@ -27,7 +27,7 @@ Main application that should be launched on system login. Listens for NFC scans,
 1. Run `keygen.py` to generate your encryption key
 2. Use `encode.py` to encode your password  
 3. Store the encoded string on your NFC implant
-4. Set `nfc_app.py` to run on system startup
+4. Set `nfc.sh` to run on system startup
 5. Scan your implant when prompted for sudo authentication
 
 ## Requirements
