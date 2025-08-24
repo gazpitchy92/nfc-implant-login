@@ -2,7 +2,7 @@
 
 A Python project for using an xNT NFC implant to login to sudo commands, or any other software, on Linux systems. Also works with NFC cards, tags, or other NFC devices.
 
-It basically reads a stored encoded password, then types it out and presses return (enter).
+It basically just reads a stored encoded password, then types it out and presses return (enter).
 
 ## Installation
 
@@ -29,7 +29,7 @@ It basically reads a stored encoded password, then types it out and presses retu
 
 - Linux system
 - Python 3.x
-- NFC reader hardware (Reccomend ACR122U)
+- NFC reader hardware (ACR122U)
 - xNT NFC implant (or any NFC card/tag)
 
 ## Files
