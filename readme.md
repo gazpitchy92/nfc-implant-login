@@ -51,4 +51,4 @@ Decodes an encoded password string. Optional verification step.
 Main application launcher that should be started on system login. This starts nfc_app.py and restarts on error.
 
 ### nfc_app.py
-the main application logic. Listens for NFC scans, decodes the stored string, and automatically types the password and presses return (enter).
+The main application logic. Listens for NFC scans, decodes the stored string, and automatically types the password and presses return (enter).
