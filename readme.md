@@ -48,7 +48,7 @@ Usage: `./decode.py <encoded_string>`
 Decodes an encoded password string. Optional verification step.
 
 ### nfc.sh
-Main application launcher that should be launched on system login. This starts nfc_app.py and restarts on error.
+Main application launcher that should be started on system login. This starts nfc_app.py and restarts on error.
 
 ### nfc_app.py
 the main application logic. Listens for NFC scans, decodes the stored string, and automatically types the password and presses return (enter).
