@@ -43,7 +43,7 @@ Usage: `./encode.py <string>`
 Encodes a password string that can be stored on your NFC device.
 
 ### decode.py
-Usage: `./decode.py <string>`
+Usage: `./decode.py <encoded_string>`
 
 Decodes an encoded password string. Optional verification step.
 
